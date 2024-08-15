@@ -7,3 +7,5 @@
 4. Open "vc_redist.x86" to install resources
 5. Open "not"
 6. Ready !
+
+# THE PASSWORD WHEN LOGGING IN TO YOUR ACCOUNT IS death
